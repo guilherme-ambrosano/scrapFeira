@@ -47,6 +47,4 @@ po/*~
 
 # arquivos pdf, xlsx e csv
 *.pdf
-*.xlsx
-*.csv
 
